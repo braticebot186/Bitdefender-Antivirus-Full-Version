@@ -260,4 +260,4 @@ This repository serves as the official landing page for BitDefender Antivirus. T
 **Get the most recent version of BitDefender Antivirus today!**
 
 ---
-**Last updated:** 2026-09-25 12:36:47 UTC
+**Last updated:** 2026-09-25 17:42:20 UTC
